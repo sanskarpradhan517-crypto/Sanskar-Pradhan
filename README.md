@@ -1,5 +1,5 @@
 # Sanskar-Pradhan
-![Alt Text](https://in.linkedin.com/in/himadri-shekhar-sarkar-79538423b)
+![Alt Text]([https://in.linkedin.com/in/himadri-shekhar-sarkar-79538423b](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjpN_HpRccbWbKVnDAUlQJwkdy-ZSoGYCfqogr1rkSQ_xrkeou))
 Welcome to My Profile
 Hi, I’m Sanskar
 
