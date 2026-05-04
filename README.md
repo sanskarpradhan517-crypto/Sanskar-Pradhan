@@ -1,5 +1,5 @@
 # Sanskar-Pradhan
-![Alt Text]([https://your-image-link.com/image.png](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjpN_HpRccbWbKVnDAUlQJwkdy-ZSoGYCfqogr1rkSQ_xrkeou))
+<img src="[https://your-image-link.com/image.pn](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjpN_HpRccbWbKVnDAUlQJwkdy-ZSoGYCfqogr1rkSQ_xrkeou)" alt="Banner" width="100%" />
 Welcome to My Profile
 Hi, I’m Sanskar
 
