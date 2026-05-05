@@ -1,5 +1,6 @@
 # Sanskar-Pradhan
-<img src="[https://your-image-link.com/image.pn](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjpN_HpRccbWbKVnDAUlQJwkdy-ZSoGYCfqogr1rkSQ_xrkeou)" alt="Banner" width="100%" />
+<img width="450" height="245" alt="image" src="https://github.com/user-attachments/assets/0062ef71-6a72-467e-82f0-6b66f83bad06" />
+
 Welcome to My Profile
 Hi, I’m Sanskar
 
